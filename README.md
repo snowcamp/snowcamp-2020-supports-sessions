@@ -1,2 +1,228 @@
-# snowcamp-2020-supports-sessions
-Supports et slides des sessions présentées à la conférence Snowcamp 2020
+# Snowcamp 2020 - Supports des sessions
+
+## Mercredi
+
+### Envoyez la Nitro: construisez une API serverless avec Nest.js à toute vitesse! ([Yohan Lasorsa](https://twitter.com/@sinedied) et [Olivier Leplus](https://twitter.com/@olivierleplus))
+
+* [Support / Diaporama](https://nitro-ws-slides.netlify.com/#1)
+* [Sources workshop](https://nitro-stack.github.io/nitro-workshop/)
+
+
+### Introduction to Scala ([Andrea Baita](https://twitter.com/baitaand))
+
+* soon
+
+### De spring boot à Kotlin ([Mathieu Mure](https://twitter.com/@MathieuMure) et [Olivier Perez](https://twitter.com/olivierperez))
+
+* soon
+
+### Implémentation du pattern API Gateway avec GraphQL ([Thomas Segismont](https://twitter.com/tsegismont))
+
+* soon
+
+### istio ⛵️par la pratique ! ([Kevin Davin](https://twitter.com/@davinkevin) et Nikola Lohinski)
+
+* soon
+
+### Des applications web performantes grâce à webpack: de débutant à confirmé ([Antoine Caron](https://twitter.com/@Slashgear_))
+
+* soon
+
+### Découvrez Micronaut, le framework qui va faire du bien à la JVM ! ([Olivier Revial](https://twitter.com/pommeDouze))
+
+* soon
+
+### WebAssembly : le navigateur est maintenant une vraie machine virtuelle ([M4dz](https://twitter.com/m4d_z))
+
+* soon
+
+### Ma première PWA avec Firebase ([Mathilde Rigabert Lemée](https://twitter.com/MathildeLemee) et [Loïc Vaillé](https://twitter.com/hydrog3n))
+
+* soon
+
+### Kafka: Journal et Métamorphose ([Guillaume Andrieu](https://twitter.com/@glmxndr) et [Arnaud Bos](https://twitter.com/@arnaud_bos))
+
+* soon
+
+___
+
+## Jeudi
+
+### Keynote : Make Something Great: Become an Open Source Contributor ([Andres Galante](https://twitter.com/andresgalante))
+
+* [Support / Diaporama](https://speakerdeck.com/andresgalante/make-something-great-become-an-open-source-contributor-21882f19-9293-44a5-8976-a8cf1fe64d70)
+
+
+### Construire une PWA temps réel avec Firebase ([Mathilde Rigabert Lemée](https://twitter.com/MathildeLemee) et [Loïc Vaillé](https://twitter.com/hydrog3n))
+
+* soon
+
+### Du Business Process Modeling pour orchestrer des microservices ? ([Julien Cognet](https://twitter.com/jcognet1979))
+
+* soon
+
+### Rendre son IoT encore plus intelligent avec Tensorflow Lite ([Alexis Duque](https://twitter.com/alexis0duque))
+
+* [Support / Diaporama](https://speakerdeck.com/alexisduque/rendre-son-iot-encore-plus-intelligent-avec-tensorflow-lite-at-snowcampio)
+
+
+### Core, le principe "dans le doute reboot" appliqué à .NET ([François Bouteruche](https://twitter.com/fbouteruche))
+
+* soon
+
+### Allo la montagne, ici la mer. Et si on codait ensemble avec VS Code? ([Tiffany Souterre](https://twitter.com/tiffanysouterre) et [Olivier Leplus](https://twitter.com/olivierleplus))
+
+* [Support / Diaporama](https://slides.com/olivierleplus/vscode-collaboration#/)
+
+
+### HTTP/3 what is the status? ([Jean-Frederic Clere](https://twitter.com/jfclere))
+
+* soon
+
+### Le design de l'erreur ([François Teychene](https://twitter.com/fteychene))
+
+* soon
+
+### Maintenir son serveur Jenkins en toute détente ([Julien Giovaresco](https://twitter.com/jgiovaresco))
+
+* soon
+
+### How to avoid Kubernetes Driven Development (Nasser Srairi et [Willy Malvault](https://twitter.com/malvaultw))
+
+* soon
+
+### JUnit 5 : il serait temps de passer la 5ème ! ([Juliette De Rancourt](https://twitter.com/ju_derancourt) et [Julien Topçu](https://twitter.com/JulienTopcu))
+
+* soon
+
+### La Cryptographie en 55' chrono ([M4dz](https://twitter.com/m4d_z))
+
+* [Support / Diaporama](https://preview.talks.m4dz.net/crypto-for-newcomers/fr/#/)
+
+
+### De Symfony à NuxtJs: voyage au pays du Js (Abdallah Bratos et Arnaud Becquet)
+
+* soon
+
+### Quarkus: unification of reactive and imperative ([Clement Escoffier](https://twitter.com/clementplop))
+
+* soon
+
+### De l'écoconception à la low-tech numérique ([Frédéric Bordage](https://twitter.com/BordageFrederic))
+
+* soon
+
+### The Sound of Silence: Des APIs Web pour l'accessibilité des déficiences visuelles et auditives ([Thibaud Courtoison](https://twitter.com/Errorname_))
+
+* soon
+
+### J'ai déployé mes apps sur Minikube... maintenant je fais quoi ? ([Horacio Gonzalez](https://twitter.com/LostInBrittany))
+
+* soon
+
+### DATAOPS n’est pas que DEVOPS appliqué aux projets DATA ([Frédéric Petit](https://twitter.com/madgicweb) et [Adrien Blind](https://twitter.com/adrienblind))
+
+* soon
+
+### L'intégration, ce purgatoire ([Bruno Sabot](https://twitter.com/brunosabot))
+
+* soon
+
+### Set your code on fire with FlameGraphs ([Francesco Nigro](https://twitter.com/forked_franz))
+
+* soon
+
+### Tests de propriétés : Ecrivez moins de tests, trouvez plus de bugs ([Julien Debon](https://twitter.com/Sir4ur0n))
+
+* soon
+
+___
+
+## Vendredi
+
+### Keynote : Le processus de boot: Une histoire moderne de l'informatique ([Samuel Ortiz](https://twitter.com/sameo))
+
+* soon
+
+### Le diable s'habille en Java ([Nicolas Delsaux](https://twitter.com/riduidel))
+
+* soon
+
+### Quintescence of Elixir ([Willy Malvault](https://twitter.com/malvaultw))
+
+* soon
+
+### Développer sereinement avec Node.js ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et [Julien Giovaresco](https://twitter.com/jgiovaresco))
+
+* soon
+
+### Le Spleen du Mainteneur ([Lapalice](https://twitter.com/NLaPalice))
+
+* soon
+
+### Kubernetes on ARM64: Raspberry PI 4 cloud for a few Euros!!! ([Jean-Frederic Clere](https://twitter.com/jfclere))
+
+* soon
+
+### Du réactif au service du pneu connecté ([Thomas Segismont](https://twitter.com/tsegismont) et [Fabien Pomerol](https://twitter.com/fabienpomerol))
+
+* [Support / Diaporama](https://speakerdeck.com/fabienpomerol/fabien-pomerol)
+* [Sources démo](https://github.com/jponge/vertx-devoxxfr19-demos)
+
+
+### Développement Zéro Déchet : tips & tricks pour améliorer l'empreinte carbone de vos  applications ([Cécilia Bossard](https://twitter.com/ceciliaBossard) et [Kevin Morin](https://twitter.com/iron_ass))
+
+* soon
+
+### Quarkus: Supersonic Subatomic Java ([Dimitris Andreadis](https://twitter.com/dandreadis))
+
+* soon
+
+### Rust: sûr et concurrent. Mais comment fait-il ? ([Benjamin Coenen](https://twitter.com/bnj25))
+
+* soon
+
+### Et si on gérait notre boîte comme un projet open source ? ([Olivier Revial](https://twitter.com/pommeDouze))
+
+* soon
+
+### Web Components: from Dream to Standard ([Philippe Ozil](https://twitter.com/PhilippeOzil))
+
+* soon
+
+### REX de Trois années d'Event Sourcing ([Nizar Kefi](https://twitter.com/nkefi) et Haythem Zayani)
+
+* [Support / Diaporama](https://github.com/HaythemZ/Snowcamp2020/blob/master/README.md)
+
+
+### A la découverte de la réalité augmentée avec ARCore ([Jérémy Voisin](https://twitter.com/_JeremyVoisin_) et [Christophe Jollivet](https://twitter.com/jollivetc))
+
+* soon
+
+### Post Quantum Cryptography - RSA Is Dead! Long Live BB84! ([James Birnie](https://twitter.com/RunningChairJB))
+
+* soon
+
+### In our documentation we trust ! REX sur l'intégration de l'écriture de la doc dans le cycle de developpement ([Gérald Reinhart](https://twitter.com/GeReinhart))
+
+* soon
+
+### Comment Veolia va relever ses compteurs connectés avec Cloud Run ([Guillaume Blaquiere](https://twitter.com/gblaquiere))
+
+* soon
+
+### Angular : Prise de masse, notre programme depuis deux ans ! ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et Thibaud Avenier)
+
+* soon
+
+### CNAB : le chainon manquant ([Yves Brissaud](https://twitter.com/_crev_))
+
+* soon
+
+### ZeBattle : ORM vs Bare SQL ([William Bartlett](https://twitter.com/bartlettstarman) et [Nicolas Muller](https://twitter.com/zepouet))
+
+* soon
+
+### Man vs Machine : quelle est la particularité de l'intelligence humaine ? ([Maxime Maillot](https://twitter.com/MaximeSwimsuit))
+
+* soon
