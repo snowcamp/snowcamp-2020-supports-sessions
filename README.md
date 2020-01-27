@@ -224,7 +224,7 @@ ___
 
 ### ZeBattle : ORM vs Bare SQL ([William Bartlett](https://twitter.com/bartlettstarman) et [Nicolas Muller](https://twitter.com/zepouet))
 
-* soon
+* [Diapos, code source des démos](https://noti.st/punkstarman/hydoYE)
 
 ### Man vs Machine : quelle est la particularité de l'intelligence humaine ? ([Maxime Maillot](https://twitter.com/MaximeSwimsuit))
 
