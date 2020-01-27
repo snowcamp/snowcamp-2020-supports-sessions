@@ -152,7 +152,7 @@ ___
 
 ### Le diable s'habille en Java ([Nicolas Delsaux](https://twitter.com/riduidel))
 
-* soon
+* [Slides](https://github.com/Riduidel/conferences/blob/master/histoire-des-modes/src/slides/asciidoc/index.adoc)
 
 ### Quintescence of Elixir ([Willy Malvault](https://twitter.com/malvaultw))
 
