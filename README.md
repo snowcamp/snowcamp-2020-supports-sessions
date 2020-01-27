@@ -114,7 +114,7 @@ ___
 
 ### The Sound of Silence: Des APIs Web pour l'accessibilité des déficiences visuelles et auditives ([Thibaud Courtoison](https://twitter.com/Errorname_))
 
-* soon
+* [Slides](https://errorna.me/preview/soundofsilence/) _(use :arrow_up: and :arrow_down: to navigate)_
 
 ### J'ai déployé mes apps sur Minikube... maintenant je fais quoi ? ([Horacio Gonzalez](https://twitter.com/LostInBrittany))
 
