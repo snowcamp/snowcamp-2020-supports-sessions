@@ -92,9 +92,11 @@ ___
 
 * soon
 
-### JUnit 5 : il serait temps de passer la 5ème ! ([Juliette De Rancourt](https://twitter.com/ju_derancourt) et [Julien Topçu](https://twitter.com/JulienTopcu))
+### JUnit 5 : il serait temps de passer la 5ème ! ([Juliette de Rancourt](https://twitter.com/ju_derancourt) et [Julien Topçu](https://twitter.com/JulienTopcu))
 
-* soon
+* [Slides](https://slides.com/julientopcu/junit-il-serait-temps-de-passer-la-5me#)
+* [Repository](https://gitlab.com/crafts-records/remember-me)
+* [Vidéos](https://m.youtube.com/playlist?list=PL7S5riMs96kS86XNFSz0bVljJdnc_B_qQ)
 
 ### La Cryptographie en 55' chrono ([M4dz](https://twitter.com/m4d_z))
 
