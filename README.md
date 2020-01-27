@@ -18,7 +18,8 @@
 
 ### Implémentation du pattern API Gateway avec GraphQL ([Thomas Segismont](https://twitter.com/tsegismont))
 
-* soon
+* [Support](https://tsegismont.github.io/graphql-api-gateway-workshop/)
+* [Sources](https://github.com/tsegismont/graphql-api-gateway-workshop/)
 
 ### istio ⛵️par la pratique ! ([Kevin Davin](https://twitter.com/@davinkevin) et Nikola Lohinski)
 
