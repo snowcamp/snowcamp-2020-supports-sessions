@@ -142,7 +142,7 @@ ___
 
 ### Keynote : Le processus de boot: Une histoire moderne de l'informatique ([Samuel Ortiz](https://twitter.com/sameo))
 
-* soon
+* [Support / Diaporama](https://static.sched.com/hosted_files/snowcamp2020/ba/The%20x86%20Boot%20Process.pdf) 
 
 ### Le diable s'habille en Java ([Nicolas Delsaux](https://twitter.com/riduidel))
 
@@ -172,7 +172,7 @@ ___
 
 ### Développement Zéro Déchet : tips & tricks pour améliorer l'empreinte carbone de vos  applications ([Cécilia Bossard](https://twitter.com/ceciliaBossard) et [Kevin Morin](https://twitter.com/iron_ass))
 
-* soon
+* [Support / Diaporama](http://cbossard.page.nuiton.org/presentation-dev-zero-dechet/snowCamp/#1)
 
 ### Quarkus: Supersonic Subatomic Java ([Dimitris Andreadis](https://twitter.com/dandreadis))
 
