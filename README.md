@@ -118,7 +118,7 @@ ___
 
 ### J'ai déployé mes apps sur Minikube... maintenant je fais quoi ? ([Horacio Gonzalez](https://twitter.com/LostInBrittany))
 
-* soon
+* [Support / Diaporama](https://noti.st/lostinbrittany/VyqPwU/i-have-deployed-my-app-on-minikube-and-now-what)
 
 ### DATAOPS n’est pas que DEVOPS appliqué aux projets DATA ([Frédéric Petit](https://twitter.com/madgicweb) et [Adrien Blind](https://twitter.com/adrienblind))
 
