@@ -205,7 +205,8 @@ ___
 
 ### In our documentation we trust ! REX sur l'intégration de l'écriture de la doc dans le cycle de developpement ([Gérald Reinhart](https://twitter.com/GeReinhart))
 
-* soon
+* [Support / Diaporama](https://github.com/KelkooGroup/theGardener/blob/master/documentation/assets/decks/InOurDocumentationWeTrust.pdf)
+* [Exemple: theGardener v1.0.0](https://thegardener.kelkoogroup.com/app/documentation/navigate/_doc;path=theGardener%3E%3E_/Changelog)
 
 ### Comment Veolia va relever ses compteurs connectés avec Cloud Run ([Guillaume Blaquiere](https://twitter.com/gblaquiere))
 
