@@ -134,7 +134,9 @@ ___
 
 ### Tests de propriétés : Ecrivez moins de tests, trouvez plus de bugs ([Julien Debon](https://twitter.com/Sir4ur0n))
 
-* soon
+* [Slides](https://docs.google.com/presentation/d/1bkdvm96-9tPe-ldCVjziDhccV3lzS_DDeFibCQ_cY54/edit?usp=sharing)
+* [Repo](https://github.com/Sir4ur0n/property-based-testing-talk-support)
+* [Workshop PBT (Java/JavaScript/Haskell/ReasonML/Rust) avec @Oteku](https://github.com/trollaklass?type=source)
 
 ___
 
