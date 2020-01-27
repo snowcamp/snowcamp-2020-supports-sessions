@@ -30,7 +30,8 @@
 
 ### Découvrez Micronaut, le framework qui va faire du bien à la JVM ! ([Olivier Revial](https://twitter.com/pommeDouze))
 
-* soon
+* [Support workshop](https://ateliers.stack-labs.com/md/micronaut_workshop)
+* [Sources workshop](https://github.com/orevial/micronaut-workshop)
 
 ### WebAssembly : le navigateur est maintenant une vraie machine virtuelle ([M4dz](https://twitter.com/m4d_z))
 
