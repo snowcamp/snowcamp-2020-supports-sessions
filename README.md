@@ -130,7 +130,7 @@ ___
 
 ### L'intégration, ce purgatoire ([Bruno Sabot](https://twitter.com/brunosabot))
 
-* soon
+* [Support / Diaporama](https://docs.google.com/presentation/d/18gLNemp9mcsmx-RIh2RMHWFjiv4uvXu54ouW05BjGQE/edit?usp=sharing)
 
 ### Set your code on fire with FlameGraphs ([Francesco Nigro](https://twitter.com/forked_franz))
 
