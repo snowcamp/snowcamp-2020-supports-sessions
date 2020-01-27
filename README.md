@@ -81,7 +81,7 @@ ___
 
 ### Le design de l'erreur ([François Teychene](https://twitter.com/fteychene))
 
-* soon
+* [Slides](https://ela.st/fteychene-designerror-snowcamp2020)
 
 ### Maintenir son serveur Jenkins en toute détente ([Julien Giovaresco](https://twitter.com/jgiovaresco))
 
