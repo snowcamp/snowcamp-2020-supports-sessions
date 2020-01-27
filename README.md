@@ -100,9 +100,9 @@ ___
 * [Support / Diaporama](https://preview.talks.m4dz.net/crypto-for-newcomers/fr/#/)
 
 
-### De Symfony à NuxtJs: voyage au pays du Js (Abdallah Bratos et Arnaud Becquet)
+### De Symfony à NuxtJs: voyage au pays du Js ([Abdallah Bratos](https://twitter.com/bratosab) et [Arnaud Becquet](https://www.linkedin.com/in/arnaud-becquet-707965b0/))
 
-* soon
+* [Support / Diaporama](https://docs.google.com/presentation/d/15Z_zXikH96d8h23ZKOG9Oy6o2RZODtLkZMbfNbSk8jY/edit?usp=sharing)
 
 ### Quarkus: unification of reactive and imperative ([Clement Escoffier](https://twitter.com/clementplop))
 
