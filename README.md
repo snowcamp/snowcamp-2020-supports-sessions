@@ -196,7 +196,7 @@ ___
 
 * soon
 
-### REX de Trois années d'Event Sourcing ([Nizar Kefi](https://twitter.com/nkefi) et Haythem Zayani)
+### REX de Trois années d'Event Sourcing ([Nizar Kefi](https://twitter.com/nkefi) et [Haythem Zayani](https://twitter.com/haythemzayani))
 
 * [Support / Diaporama](https://github.com/HaythemZ/Snowcamp2020/blob/master/README.md)
 
