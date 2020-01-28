@@ -87,7 +87,7 @@ ___
 
 ### Maintenir son serveur Jenkins en toute détente ([Julien Giovaresco](https://twitter.com/jgiovaresco))
 
-* soon
+* [Support / Diaporama](https://docs.google.com/presentation/d/17q6PHUSDv9jwTG5CEXEOiRU3X38OX2lYYT_cHBnmA9s/edit?usp=sharing)
 
 ### How to avoid Kubernetes Driven Development (Nasser Srairi et [Willy Malvault](https://twitter.com/malvaultw))
 
@@ -160,7 +160,7 @@ ___
 
 ### Développer sereinement avec Node.js ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et [Julien Giovaresco](https://twitter.com/jgiovaresco))
 
-* soon
+* [Support / Diaporama](https://www.slideshare.net/JulienGiovaresco/dvelopper-sereinement-avec-nodejs) 
 
 ### Le Spleen du Mainteneur ([Lapalice](https://twitter.com/NLaPalice))
 
@@ -218,9 +218,9 @@ ___
 
 * soon
 
-### Angular : Prise de masse, notre programme depuis deux ans ! ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et Thibaud Avenier)
+### Angular : Prise de masse, notre programme depuis deux ans ! ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et [Thibaud Avenier](https://twitter.com/ThibaudAv))
 
-* soon
+* [Support / Diaporama](https://docs.google.com/presentation/d/1t6ja8rgu9waVqcdHiusipvn8sGgcob3ct_O4LDCSorM/edit#slide=id.g70a83efcc1_0_325)
 
 ### CNAB : le chainon manquant ([Yves Brissaud](https://twitter.com/_crev_))
 
