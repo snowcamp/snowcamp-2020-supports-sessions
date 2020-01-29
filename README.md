@@ -62,6 +62,7 @@ ___
 ### Du Business Process Modeling pour orchestrer des microservices ? ([Julien Cognet](https://twitter.com/jcognet1979))
 
 * [Support / Diaporama](https://fr.slideshare.net/JulienCognet/du-business-process-modeling-pour-orchestrer-des-microservices-julien-cognet)
+* [Sources](https://github.com/juliencognet/saga-camunda)
 
 ### Rendre son IoT encore plus intelligent avec Tensorflow Lite ([Alexis Duque](https://twitter.com/alexis0duque))
 
