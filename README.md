@@ -156,7 +156,8 @@ ___
 
 ### Quintescence of Elixir ([Willy Malvault](https://twitter.com/malvaultw))
 
-* soon
+* [Slides](http://vlamy.github.io/quintessence-of-elixir/)
+* [Live coding snippets](https://github.com/vlamy/elixir-academy/tree/master/kv)
 
 ### Développer sereinement avec Node.js ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et [Julien Giovaresco](https://twitter.com/jgiovaresco))
 
