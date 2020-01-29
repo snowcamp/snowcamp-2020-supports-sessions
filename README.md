@@ -91,7 +91,7 @@ ___
 
 ### How to avoid Kubernetes Driven Development (Nasser Srairi et [Willy Malvault](https://twitter.com/malvaultw))
 
-* soon
+* [Slides](https://speakerdeck.com/vlamy/how-to-avoid-kubernetes-driven-development)
 
 ### JUnit 5 : il serait temps de passer la 5ème ! ([Juliette de Rancourt](https://twitter.com/ju_derancourt) et [Julien Topçu](https://twitter.com/JulienTopcu))
 
