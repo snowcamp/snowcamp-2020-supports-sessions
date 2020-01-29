@@ -10,7 +10,8 @@
 
 ### Introduction to Scala ([Andrea Baita](https://twitter.com/baitaand))
 
-* soon
+* [Support / Diaporama](https://danoliv.github.io/snowcampScalaWorkshop)
+* [Sources](https://github.com/danoliv/snowcampScalaWorkshop)
 
 ### De spring boot à Kotlin ([Mathieu Mure](https://twitter.com/@MathieuMure) et [Olivier Perez](https://twitter.com/olivierperez))
 
