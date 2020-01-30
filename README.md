@@ -128,7 +128,7 @@ ___
 
 ### DATAOPS n’est pas que DEVOPS appliqué aux projets DATA ([Frédéric Petit](https://twitter.com/madgicweb) et [Adrien Blind](https://twitter.com/adrienblind))
 
-* soon
+* [Support / Diaporama](https://www.slideshare.net/FrdricPetit/snowcamp2020-dataops-nest-pas-que-devops-appliqu-aux-projets-data)
 
 ### L'intégration, ce purgatoire ([Bruno Sabot](https://twitter.com/brunosabot))
 
