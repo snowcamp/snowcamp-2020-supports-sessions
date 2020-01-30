@@ -116,7 +116,7 @@ ___
 
 ### De l'écoconception à la low-tech numérique ([Frédéric Bordage](https://twitter.com/BordageFrederic))
 
-* soon
+* [Support / Diaporama](https://static.sched.com/hosted_files/snowcamp2020/53/2020-01-23-SnowCamp-ECOLOW.pdf)
 
 ### The Sound of Silence: Des APIs Web pour l'accessibilité des déficiences visuelles et auditives ([Thibaud Courtoison](https://twitter.com/Errorname_))
 
