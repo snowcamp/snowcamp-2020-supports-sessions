@@ -227,7 +227,7 @@ ___
 
 ### CNAB : le chainon manquant ([Yves Brissaud](https://twitter.com/_crev_))
 
-* soon
+* [Support / Diaporama](https://speakerdeck.com/eunomie/cnab-the-missing-link)
 
 ### ZeBattle : ORM vs Bare SQL ([William Bartlett](https://twitter.com/bartlettstarman) et [Nicolas Muller](https://twitter.com/zepouet))
 
