@@ -15,7 +15,8 @@
 
 ### De spring boot à Kotlin ([Mathieu Mure](https://twitter.com/@MathieuMure) et [Olivier Perez](https://twitter.com/olivierperez))
 
-* soon
+* [Support workshop](https://mathieumure.github.io/handson-springboot-to-kotlin)
+* [Sources workshop](https://github.com/mathieumure/handson-springboot-to-kotlin)
 
 ### Implémentation du pattern API Gateway avec GraphQL ([Thomas Segismont](https://twitter.com/tsegismont))
 
